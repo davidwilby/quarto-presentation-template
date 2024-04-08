@@ -1,0 +1,5 @@
+pages/*
+build/*
+/.quarto/
+*.html
+*_files/

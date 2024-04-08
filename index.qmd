@@ -1,0 +1,25 @@
+---
+title: "Template for Quarto Presentations with GitHub actions"
+format:
+    revealjs:
+        theme: [serif] # More themes at https://quarto.org/docs/presentations/revealjs/themes.html
+        slide-number: true
+        show-slide-number: speaker
+        chalkboard: true
+        code-line-numbers: false
+        preview-links: auto
+author: "David Wilby"
+date: 04/08/2024 #Date in US format... MM/DD/YYYY
+date-format: "ddd Do MMMM YYYY"
+footer: "these slides: [davidwilby.dev/quarto-presentation-template](https://davidwilby.dev/quarto-presentation-template) - {{< fa brands github >}} [improve this talk!](https://github.com/davidwilby/quarto-presentation-template)"
+from: markdown+emoji
+---
+
+## First slide!
+
+## Second slide! {.smaller}
+
+Content!
+
+Emojis are supported :smile:
+
