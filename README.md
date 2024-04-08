@@ -24,7 +24,9 @@ Full instructions can be found at the link above, however in brief:
 
 In your repository settings, enable GitHub Actions (if they aren't already) and Pages.
 
-Once the actions have run once and created the `gh-pages` branch, you can select it as your pages source.
+Under the **Actions** page in your repo's settings, under **Workflow permissions** enable "Read and Write Permissions".
+
+Once the actions have run once and created the `gh-pages` branch, you can select it as your pages source under the **Pages** page.
 
 ## What's included?
 
